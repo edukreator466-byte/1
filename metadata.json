@@ -1,0 +1,6 @@
+{
+  "name": "Suno Lyrics & Style Generator",
+  "description": "Generator lirik lagu dan prompt gaya musik profesional yang dioptimalkan khusus untuk Suno AI (v3, v3.5, dan v4) dengan metatags terstruktur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
